@@ -1,0 +1,27 @@
+c:\users\asus\documents\visual studio 2012\Projects\Filtres\Filtres\bin\Debug\Filtres.exe.config
+c:\users\asus\documents\visual studio 2012\Projects\Filtres\Filtres\bin\Debug\Filtres.exe
+c:\users\asus\documents\visual studio 2012\Projects\Filtres\Filtres\bin\Debug\Filtres.pdb
+c:\users\asus\documents\visual studio 2012\Projects\Filtres\Filtres\obj\Debug\Filtres.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2012\Projects\Filtres\Filtres\obj\Debug\Filtres.Form1.resources
+c:\users\asus\documents\visual studio 2012\Projects\Filtres\Filtres\obj\Debug\Filtres.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2012\Projects\Filtres\Filtres\obj\Debug\Filtres.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2012\Projects\Filtres\Filtres\obj\Debug\Filtres.exe
+c:\users\asus\documents\visual studio 2012\Projects\Filtres\Filtres\obj\Debug\Filtres.pdb
+F:\Filtres\Filtres\bin\Debug\Filtres.exe.config
+F:\Filtres\Filtres\obj\Debug\Filtres.exe
+F:\Filtres\Filtres\obj\Debug\Filtres.pdb
+D:\Filtres\Filtres\bin\Debug\Filtres.exe.config
+D:\Filtres\Filtres\obj\Debug\Filtres.exe
+D:\Filtres\Filtres\obj\Debug\Filtres.pdb
+D:\Filtres\Filtres\bin\Debug\Filtres.exe
+D:\Filtres\Filtres\bin\Debug\Filtres.pdb
+D:\Filtres\Filtres\obj\Debug\Filtres.csprojResolveAssemblyReference.cache
+D:\Filtres\Filtres\obj\Debug\Filtres.Form1.resources
+D:\Filtres\Filtres\obj\Debug\Filtres.Properties.Resources.resources
+D:\Filtres\Filtres\obj\Debug\Filtres.csproj.GenerateResource.Cache
+F:\Filtres\Filtres\bin\Debug\Filtres.exe
+F:\Filtres\Filtres\bin\Debug\Filtres.pdb
+F:\Filtres\Filtres\obj\Debug\Filtres.Form1.resources
+F:\Filtres\Filtres\obj\Debug\Filtres.Properties.Resources.resources
+F:\Filtres\Filtres\obj\Debug\Filtres.csproj.GenerateResource.Cache
+F:\Filtres\Filtres\obj\Debug\Filtres.csprojResolveAssemblyReference.cache

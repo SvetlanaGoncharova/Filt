@@ -1,0 +1,36 @@
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\Filtres\Filtres\bin\Release\Filtres.exe.config
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\Filtres\Filtres\bin\Release\Filtres.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\Filtres\Filtres\bin\Release\Filtres.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\Filtres\Filtres\obj\Release\Filtres.Form1.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\Filtres\Filtres\obj\Release\Filtres.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\Filtres\Filtres\obj\Release\Filtres.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\Filtres\Filtres\obj\Release\Filtres.exe
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\Filtres\Filtres\obj\Release\Filtres.pdb
+C:\Users\Asus\Documents\Visual Studio 2012\Projects\Filtres\Filtres\obj\Release\Filtres.csprojResolveAssemblyReference.cache
+D:\Filtres\Filtres\bin\Release\Filtres.exe.config
+D:\Filtres\Filtres\obj\Release\Filtres.exe
+D:\Filtres\Filtres\obj\Release\Filtres.pdb
+D:\Filtres\Filtres\bin\Release\Filtres.exe
+D:\Filtres\Filtres\bin\Release\Filtres.pdb
+D:\Filtres\Filtres\obj\Release\Filtres.Form1.resources
+D:\Filtres\Filtres\obj\Release\Filtres.Properties.Resources.resources
+D:\Filtres\Filtres\obj\Release\Filtres.csproj.GenerateResource.Cache
+F:\Filtres\Filtres\bin\Release\Filtres.exe.config
+F:\Filtres\Filtres\obj\Release\Filtres.exe
+F:\Filtres\Filtres\obj\Release\Filtres.pdb
+F:\Filtres\Filtres\bin\Release\Filtres.exe
+F:\Filtres\Filtres\bin\Release\Filtres.pdb
+F:\Filtres\Filtres\obj\Release\Filtres.csprojResolveAssemblyReference.cache
+F:\Filtres\Filtres\obj\Release\Filtres.Form1.resources
+F:\Filtres\Filtres\obj\Release\Filtres.Properties.Resources.resources
+F:\Filtres\Filtres\obj\Release\Filtres.csproj.GenerateResource.Cache
+D:\Filtres\Filtres\obj\Release\Filtres.csprojResolveAssemblyReference.cache
+C:\Users\ролд\Documents\Visual Studio 2013\Projects\Filtres\Filtres\bin\Release\Filtres.exe.config
+C:\Users\ролд\Documents\Visual Studio 2013\Projects\Filtres\Filtres\obj\Release\Filtres.exe
+C:\Users\ролд\Documents\Visual Studio 2013\Projects\Filtres\Filtres\obj\Release\Filtres.pdb
+C:\Users\ролд\Documents\Visual Studio 2013\Projects\Filtres\Filtres\bin\Release\Filtres.exe
+C:\Users\ролд\Documents\Visual Studio 2013\Projects\Filtres\Filtres\bin\Release\Filtres.pdb
+C:\Users\ролд\Documents\Visual Studio 2013\Projects\Filtres\Filtres\obj\Release\Filtres.csprojResolveAssemblyReference.cache
+C:\Users\ролд\Documents\Visual Studio 2013\Projects\Filtres\Filtres\obj\Release\Filtres.Form1.resources
+C:\Users\ролд\Documents\Visual Studio 2013\Projects\Filtres\Filtres\obj\Release\Filtres.Properties.Resources.resources
+C:\Users\ролд\Documents\Visual Studio 2013\Projects\Filtres\Filtres\obj\Release\Filtres.csproj.GenerateResource.Cache
